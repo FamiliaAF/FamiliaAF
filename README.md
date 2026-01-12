@@ -1,4 +1,4 @@
-# poetry in motion 🏎🐎🤒⚽🍒📚
+# poetry in motion 🤒
 
 ## Soy un estudiante que esta aprendiendo **desarrollo web**
 
